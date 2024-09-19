@@ -19,7 +19,7 @@ object2_width = float(input("Enter the width of the second object: "))
 object2_height = float(input("Enter the height of the second object: "))
 object2_volume = object2_length * object2_width * object2_height
 print("The volume of the second object is", object1_volume, "inches")
-print("")
+print()
 
 #find the volume of the third object
 object3_length = float(input("Enter the length of third the object: "))
