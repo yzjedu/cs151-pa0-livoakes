@@ -1,3 +1,4 @@
+
 #find area of the space
 space_length = float(input("Enter the length of the space: "))
 space_width = float(input("Enter the width of the space: "))
